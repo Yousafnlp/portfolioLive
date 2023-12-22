@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.38c6cac4.css",
-    "main.js": "/static/js/main.b94aee99.js",
+    "main.css": "/static/css/main.3b2389ba.css",
+    "main.js": "/static/js/main.495fe04a.js",
     "static/media/webkatana.PNG": "/static/media/webkatana.76eda3dc12c0ae21ce09.PNG",
     "static/media/webkatana3.PNG": "/static/media/webkatana3.57f0127a53817cdf9ae4.PNG",
     "static/media/carweb.PNG": "/static/media/carweb.8ff0ea81062367099200.PNG",
@@ -13,11 +13,11 @@
     "static/media/webkatana2.PNG": "/static/media/webkatana2.7e7c13e89c0633ebd02c.PNG",
     "static/media/pnyweb.PNG": "/static/media/pnyweb.48c8431e09de875eb487.PNG",
     "index.html": "/index.html",
-    "main.38c6cac4.css.map": "/static/css/main.38c6cac4.css.map",
-    "main.b94aee99.js.map": "/static/js/main.b94aee99.js.map"
+    "main.3b2389ba.css.map": "/static/css/main.3b2389ba.css.map",
+    "main.495fe04a.js.map": "/static/js/main.495fe04a.js.map"
   },
   "entrypoints": [
-    "static/css/main.38c6cac4.css",
-    "static/js/main.b94aee99.js"
+    "static/css/main.3b2389ba.css",
+    "static/js/main.495fe04a.js"
   ]
 }
